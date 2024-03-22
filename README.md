@@ -71,12 +71,17 @@ assign D = a ^ b;
 endmodule
 ```
 **RTL Schematic**
+
+
 **Half-Adder:**
 ![image](https://github.com/dhivyadharshini2006/HALF_ADDER_SUBTRACTOR/assets/144979490/9044438d-42ea-463c-b598-11ba7ee0a9a3)
+
+
 **Half-Subractor:**
 ![image](https://github.com/dhivyadharshini2006/HALF_ADDER_SUBTRACTOR/assets/144979490/431be97f-d9c7-4e48-81e6-1980e6aacaf2)
 
 **Output/TIMING Waveform**
+
 **Half-Adder:**
 ![image](https://github.com/dhivyadharshini2006/HALF_ADDER_SUBTRACTOR/assets/144979490/c9b99dc1-1d48-4774-864d-b5f9e0dcab30)
 **Half-Subractor:**
